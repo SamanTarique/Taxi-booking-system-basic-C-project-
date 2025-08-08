@@ -44,9 +44,11 @@ Driver: Okay, accepted. Booking confirmed.
 ---
 
 ## File Structure
+
 TaxiBookingSystem/
-  └── taxi_booking.cpp       # Main source file
+  └── taxi_booking.cpp        # Main source file
   └── README.md              # Project overview and instructions
+  
 ---
 
 # Future Scope (For Contributors)
