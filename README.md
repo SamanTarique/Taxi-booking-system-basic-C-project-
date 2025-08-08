@@ -52,8 +52,11 @@ TaxiBookingSystem/
 # Future Scope (For Contributors)
 
 1)Add authentication (Login/Register)
+
 2)Add driver assignment logic
+
 3)Improve UI using graphics or GUI
+
 4)Store ride history
 
 ---
